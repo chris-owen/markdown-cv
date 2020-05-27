@@ -105,10 +105,13 @@ Washington, DC 20560-0168, USA<br/>
 ## Peer-Reviewed Publications
 
 `2020`
-22.  Dearlove, B., S. Tovanabutra, **C.L. Owen**, E. Lewitus, E. Sanders-Buell, M. Bose, A. O’Sullivan, G. Kijak, Y. Li, S. Miller, K. Poltavee, J. Lee, L. Bonar, E. Harbolick, B. Ahani, P. Pham, H. Kibuuka, L. Maganga, S. Nitayaphan, F. Sawe, J. Kim, L.A. Eller, R. Gramzinski, S. Vasan, N. Michael, M. Robb, and M. Rolland. Factors influencing estimates of HIV-1 acute infection timing using BEAST. PLOS Computational Biology, *submitted*.
+Dearlove, B., S. Tovanabutra, **C.L. Owen**, E. Lewitus, E. Sanders-Buell, M. Bose, A. O’Sullivan, G. Kijak,<br/>
+Y. Li, S. Miller, K. Poltavee, J. Lee, L. Bonar, E. Harbolick, B. Ahani, P. Pham, H. Kibuuka, L. Maganga,<br/>
+S. Nitayaphan, F. Sawe, J. Kim, L.A. Eller, R. Gramzinski, S. Vasan, N. Michael, M. Robb, and M. Rolland.<br/>
+Factors influencing estimates of HIV-1 acute infection timing using BEAST. PLOS Computational Biology, *submitted*.
 
 `2020`
-21.  Owen, C.L. and G.L. Miller. A geographic and host-association framework for Aphidomorpha (Hemiptera: Sternorrhyncha) biodiversity discovery and plant protection in North America. Ecology and Evolution, *submitted*.
+Owen, C.L. and G.L. Miller. A geographic and host-association framework for Aphidomorpha (Hemiptera: Sternorrhyncha) biodiversity discovery and plant protection in North America. Ecology and Evolution, *submitted*.
 
 `2020`
 20.  Skvarla, M.J., M. Kramer,** C.L. Owen**, G.L. Miller, 2020. Reexamination of Rhopalosiphum (Hemiptera: Aphididae) using linear discriminant analysis to determine the validity of synonymized species, with some new synonymies and distribution data. *Biodiversity Data Journal* 8: e49102.
