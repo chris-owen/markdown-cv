@@ -3,13 +3,28 @@ layout: cv
 title: Christopher L. Owen's CV
 ---
 # Christopher L. Owen
-Entomologist, USDA-ARS Systematic Entomology Laboratory
+Entomologist
+
+USDA-ARS Systematic Entomology Laboratory<br/>
+Institute of Seismology, Department of Geosciences and Geography<br/>
+P.O. Box 68 (Pietari Kalmin katu 5)<br/>
+FI-00014 University of Helsinki, Finland<br/>
+
+<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
+  <a href="https://wiki.helsinki.fi/x/3xjABg"><i class="fas fa-users"></i> wiki.helsinki.fi/x/3xjABg (group)</a><br/>
+  <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
+  <a href="https://orcid.org/0000-0002-3820-6886"><i class="ai ai-orcid"></i> 0000-0002-3820-6886</a> - 
+  <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
+  <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>
 </div>
 
+## Education
+
+`2013`
+**Ph.D., Ecology & Evolutionary Biology**, *University of Connecticut*, Storrs, CT, USA.
 
 ## Currently
 
