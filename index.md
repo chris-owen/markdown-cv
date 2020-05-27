@@ -216,7 +216,7 @@ Busby, B.,…**C.L. Owen** et al., 2016. Closing gaps between open software and 
 **Owen, C.L.**, 2010. Dating two rapid cicada radiations: the tribe Cicadettini and the Australian cicada genus Pauropsalta. Invited oral presentation. Northeastern Symposium on Evolutionary Divergence Time, New Brunswick, New Jersey.
 
 
-### Conference Presentations<br/>and Posters
+### Presentations and Posters
 
 `2019`
 Riddick, E., G.L. Miller, **C.L. Owen**, G.R. Bauchan, J.M. Schmidt, T. Gariepy, R.L. Brown, M.J. Grodowitz, 2019. Interactions of Aphis ruborum and its natural enemies on strawberry in southeastern USA. Oral Presentation. International Symposium Ecology of Aphidophaga 14, Montreal, Canada.
@@ -278,37 +278,37 @@ Ruiz, R., B.A. McPheron, A. Tu, E. Deutsch, **C.L. Owen**, M. Aluja, J. Pinero, 
 **Owen, C.L.**, C.G. Messing, G.W. Rouse, M.S. Shivji, 2006. Delimiting species of crinoids: comparing new mtDNA phylogenies with current species designations and reevaluating overlapping morphological characters. Oral presentation. 12th  International Echinoderm Conference, Durham, New Hampshire.
 
 
-### Journals
+## Awards and Nominations
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2020`
+**Semi-finalist recognition**, ARSX competition, United States Department of Agriculture-Agriculture Research Service
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
+`2014`
+**Nominated finalist**, Ecology & Evolutionary Biology Best Dissertation Prize, University of Connecticut
 
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+**Presidents Prize**, Systematics, Evolution, and Biodiversity Section, Entomological Society of America
 
+`2012`
+**Teaching award finalist**, Ecology & Evolutionary Biology teaching award, University of Connecticut
 
-## Occupation
+`2012`
+**Nominated finalist**, Ernst Mayr Award, Society of Systematic Biologists
 
-`1600`
-__Royal Mint__, London
+## Ad-hoc Journal Referee
+`2013-present`
+Biological Journal of the Linnean Society, BMC Evolutionary Biology, Check List, Electronic Journal of Biotechnology, Genome Biology and Evolution, Journal of Biogeography, Journal of Economic Entomology, Molecular Biology and Evolution, Molecular Ecology Resources, Molecular Phylogenetics and Evolution, PeerJ, PeerJ Computer Science, Scientific Reports, Systematic Entomology, The Proceedings of the Biological Society of Washington
 
-- Warden
-- Minted coins
+## Professional Affiliations
+`2010-present`
+Entomological Society of America
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2007-present`
+Society for the Study of Evolution
 
-
+`2007-present`
+Society of Systematic Biologists
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: May 2020 -->
