@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Christopher L. Owen's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Christopher L. Owen
+Entomologist, USDA-ARS Systematic Entomology Laboratory
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
