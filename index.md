@@ -188,14 +188,17 @@ Busby, B.,…**C.L. Owen** et al., 2016. Closing gaps between open software and 
 `2019`
 **Owen, C.L.**, 2019. Inferring the phylogenies of Cicadidae (Hemiptera: Auchenorrhyncha) and Aphidoidea (Hemiptera: Sternorrhyncha): progress and pitfalls. Invited oral presentation. Early Career Professionals Symposium, Entomological Society of America Eastern Branch Meeting, Virginia Tech University, Blacksburg, Virginia.
 
+`2019`
+**Owen, C.L.**, 2019. Hemiptera comparative genomics, phylogenomics, and biodiversity informatics. Invited oral presentation. Systematic Entomology Laboratory, USDA-ARS & Department of Entomology, Smithsonian Institution NMNH, Smithsonian Institution National Museum of Natural History, Washington, D.C.
+
 `2018`
 **Owen, C.L.**, 2018. Inferring the phylogenies of Cicadidae (Hemiptera: Auchenorrhyncha) and Aphidoidea (Hemiptera: Sternorrhyncha): progress and pitfalls. Invited oral presentation. Entomological Society of Washington, National Museum of Natural History, Smithsonian Institution, Washington, D.C.
 
 `2016`
-**Owen, C.L.**, 2016. Phylogeny of Peracarida (Arthropoda: Crustacea) and its application to genome size evolution and conservation. Invited oral presentation. IX Brazilian Congress of Crustaceans, Crato, Ceará State, Brazil.**Declined**
+**Owen, C.L.**, 2016. Phylogeny of Peracarida (Arthropoda: Crustacea) and its application to genome size evolution and conservation. Invited oral presentation. IX Brazilian Congress of Crustaceans, Crato, Ceará State, Brazil.*Declined*
 
 `2016`
-**Owen, C.L.**, 2016. The utility of insect collections for comparative genomics studies. Invited oral presentation. Entomological Collections Network Annual Meeting, Orlando, Florida. **Declined**
+**Owen, C.L.**, 2016. The utility of insect collections for comparative genomics studies. Invited oral presentation. Entomological Collections Network Annual Meeting, Orlando, Florida. *Declined*
 
 `2015`
 **Owen, C.L.**, 2015. Exploring, improving, and evaluating anchored hybrid enrichment data support for relationships within the Family Cicadidae. Invited oral presentation. Hemipteroid Insect Phylogenetics Workshop, Champaign, Illinois.
@@ -204,7 +207,7 @@ Busby, B.,…**C.L. Owen** et al., 2016. Closing gaps between open software and 
 **Owen, C.L.**,  2015. Integrating taxonomy, sequence data, phylogeny, and genomes, across independent databases to generate a comprehensive view of Hemiptera phylogeny and systematics. Invited oral presentation. Hemipteroid Insect Phylogenetics Workshop, Champaign, Illinois.
 
 `2012`
-**Owen, C.L.**, 2012. Diversification and biogeography of the Australian cicada genus. Invited oral presentation. International Congress of Entomology 2012, Daegu, Korea. **Declined**
+**Owen, C.L.**, 2012. Diversification and biogeography of the Australian cicada genus. Invited oral presentation. International Congress of Entomology 2012, Daegu, Korea. *Declined*
 
 `2012`
 **Owen, C.L.**, 2010. Diversification and evolution of the Australian cicada genus Pauropsalta. Invited oral presentation. Entomological Society of America Meeting 2010, Divergence Time Symposium, San Diego, California.
@@ -213,9 +216,67 @@ Busby, B.,…**C.L. Owen** et al., 2016. Closing gaps between open software and 
 **Owen, C.L.**, 2010. Dating two rapid cicada radiations: the tribe Cicadettini and the Australian cicada genus Pauropsalta. Invited oral presentation. Northeastern Symposium on Evolutionary Divergence Time, New Brunswick, New Jersey.
 
 
-## Publications
+### Conference Presentations and Posters
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2019`
+Riddick, E., G.L. Miller, **C.L. Owen**, G.R. Bauchan, J.M. Schmidt, T. Gariepy, R.L. Brown, M.J. Grodowitz, 2019. Interactions of Aphis ruborum and its natural enemies on strawberry in southeastern USA. Oral Presentation. International Symposium Ecology of Aphidophaga 14, Montreal, Canada.
+
+`2018`
+**Owen, C.L.**, G.L. Miller, 2018. Revision of Utamphorophora Knowlton (Aphididae: Macrosiphini) and testing generic boundaries within Macrosiphini with phylogeny and convolutional neural networks. Poster Presentation. Entomological Society of America Meeting, Vancouver, Canada.
+
+`2017`
+**Owen, C.L.**, B. Dearlove, S. Tovanabutra, E. Sanders-Buell, L. Maganga, S. Nitayaphan, F. Sawe, H. Kibuuka, N. Michael, M. Robb, M. Rolland, RV217 Study Team, 2017. HIV-1 sequences from early infection predict the age of infection. Poster Presentation. HIV Dynamics and Evolution, Isle of Skye, Scotland.
+
+`2016`
+**Owen, C.L.**, 2016. Phylogenomic estimate of the Cicadidae (Hemiptera: Cicadoidea): identifying contaminated/paralogous locus copies and exploring the utility of Hemiptera and cicada 1:1 ortholog sets in pest Hemiptera lineages. Oral presentation. International Congress of Entomology, Orlando, Florida.
+
+`2016`
+Rolland, M., **C.L. Owen**, 2016. Super-infection and development of MPER-specific neutralization breadth in subject 40512 from the acute infection cohort RV217. Poster presentation. HIV Research for Prevention, Chicago, Illinois.
+
+`2014`
+**Owen, C.L.**, 2014. Phylogenomic estimation of the Hemiptera phylogeny and their co-diversification with plants. Oral presentation. Entomological Society of America Meeting, Portland, Oregon.
+
+`2014`
+Bracken-Grissom, H., **C.L. Owen**, K.A. Crandall, 2014. Comparative decapod genomics and their utility in developing target enrichment probes. Poster presentation. Society for Molecular Biology and Evolution Meeting, San Juan, Puerto Rico.
+
+`2014`
+Bracken-Grissom, H., **C.L. Owen**, D. Felder, and K. Crandall, 2014. The synthetic phylogeny of the decapod crustaceans: integration of taxonomy and phylogenies. Poster presentation. Ocean Sciences Meeting, Honolulu, Hawaii.
+
+`2013`
+**Owen, C.L.**, 2013. Reappraisal of the Hemiptera phylogeny using supermatrices and phylogenomic data. Oral presentation. Entomological Society of America Meeting, Austin, Texas.
+
+`2012`
+**Owen, C.L.**, 2012. Diversification and biogeography of the Australian cicada genus Pauropsalta. Oral presentation. Entomological Society of America Meeting, Knoxville, Tennessee.
+
+`2012`
+**Owen, C.L.**, 2012. Diversification and biogeography of the Australian cicada genus Pauropsalta. Oral presentation. Evolution Meeting, Ernst Mayr Award Symposium, Ottawa, Canada.
+
+`2011`
+**Owen, C.L.**, 2011. The utility of 454 sequence data for primer design and phylogenomic analyses. Oral presentation. UCONN Ecology and Evolutionary Biology Graduate Student Symposium.
+
+`2010`
+**Owen, C.L.**, 2010. Diversification and evolution of the Australian cicada genus Pauropsalta. Oral presentation. Evolution Meeting, Portland, Oregon.
+
+`2010`
+**Owen, C.L.**, 2010. Evolution of the relaxed-clock and molecular dating with examples from the largest Australian cicada genus Pauropsalta. Oral presentation. Partnership for Enhancing Expertise in Auchenorrhyncha Taxonomy Workshop Symposium, Albany, NY.
+
+`2010`
+**Owen, C.L.**, 2010. Diversification of the Australian cicada genus Pauropsalta. Oral presentation. UConn Ecology and Evolutionary Biology Graduate Student Symposium.
+
+`2008`
+**Owen, C.L.**, 2008. Molecular systematics and diversification of the Pauropsalta Goding and Froggatt, 1904. Oral presentation. Partnership for Enhancing Expertise in Auchenorrhyncha Taxonomy Workshop Symposium, Storrs, Connecticut.
+
+`2007`
+Ruiz, R., **C.L. Owen**, B.A. McPheron, J. da Silva-Miller, D.B. Thomas, 2007. Phylogeographic structure of Anastrepha ludens and A. obliqua: evidence from COI and
+ND6 mitochondrial regions. Oral presentation. Entomological Society of America
+Annual Meeting, San Diego, California.
+
+`2006`
+Ruiz, R., B.A. McPheron, A. Tu, E. Deutsch, **C.L. Owen**, M. Aluja, J. Pinero, 2006. Sequence- based analysis of population structure in Anastrepha obliqua. Poster presentation. 7th International Symposium on Fruit Flies of Economic Importance/6th Meeting of the Working Group on Fruit Flies, Salvador, Bahia, Brazil.
+
+`2006`
+**Owen, C.L.**, C.G. Messing, G.W. Rouse, M.S. Shivji, 2006. Delimiting species of crinoids: comparing new mtDNA phylogenies with current species designations and reevaluating overlapping morphological characters. Oral presentation. 12th  International Echinoderm Conference, Durham, New Hampshire.
+
 
 ### Journals
 
