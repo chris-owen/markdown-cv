@@ -5,26 +5,29 @@ title: Christopher L. Owen's CV
 # Christopher L. Owen
 Entomologist
 
-USDA-ARS Systematic Entomology Laboratory<br/>
-Institute of Seismology, Department of Geosciences and Geography<br/>
-P.O. Box 68 (Pietari Kalmin katu 5)<br/>
-FI-00014 University of Helsinki, Finland<br/>
+Systematic Entomology Laboratory, USDA-ARS<br/>
+c/o National Museum of Natural History<br/>
+10th St. & Constitution Ave., NW<br/>
+Washington, DC 20560-0168, USA<br/>
 
-<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
+<a href="christopher.owen@usda.gov">christopher.owen@usda.gov</a>
 
 <div id="webaddress">
-  <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
-  <a href="https://wiki.helsinki.fi/x/3xjABg"><i class="fas fa-users"></i> wiki.helsinki.fi/x/3xjABg (group)</a><br/>
-  <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
-  <a href="https://orcid.org/0000-0002-3820-6886"><i class="ai ai-orcid"></i> 0000-0002-3820-6886</a> - 
-  <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
-  <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>
+  <a href="https://chris-owen.github.io"><i class="fas fa-home"></i> chris-owen.github.io</a> - 
+  <a href="https://github.com/chris-owen"><i class="fab fa-github"></i> chris-owen</a> - 
+  <a href="https://orcid.org/0000-0003-0293-8601"><i class="ai ai-orcid"></i> 0000-0003-0293-8601</a>
 </div>
 
 ## Education
 
 `2013`
 **Ph.D., Ecology & Evolutionary Biology**, *University of Connecticut*, Storrs, CT, USA.
+
+`2007`
+**M.S., Marine Biology & Marine Environmental Science**, *Nova Southeastern Oceanographic Center*, Dania Beach, FL, USA.
+
+`2000`
+**B.S., Environmental Science**, *Muhlenberg College*, Allentown, PA, USA.
 
 ## Currently
 
