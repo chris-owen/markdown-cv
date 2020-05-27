@@ -3,7 +3,7 @@ layout: cv
 title: Christopher L. Owen's CV
 ---
 # Christopher L. Owen
-Physicist, Mathematician, Cambridge professor.
+Entomologist, USDA-ARS Systematic Entomology Laboratory
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
