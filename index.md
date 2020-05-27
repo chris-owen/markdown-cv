@@ -114,7 +114,7 @@ Factors influencing estimates of HIV-1 acute infection timing using BEAST. *PLOS
 **Owen, C.L.** and G.L. Miller. A geographic and host-association framework for Aphidomorpha (Hemiptera: Sternorrhyncha) biodiversity discovery and plant protection in North America. Ecology and Evolution, *submitted*.
 
 `2020`
-20.  Skvarla, M.J., M. Kramer, **C.L. Owen**, G.L. Miller, 2020. Reexamination of Rhopalosiphum (Hemiptera: Aphididae) using linear discriminant analysis to determine the validity of synonymized species, with some new synonymies and distribution data. *Biodiversity Data Journal* 8: e49102.
+Skvarla, M.J., M. Kramer, **C.L. Owen**, G.L. Miller, 2020. Reexamination of Rhopalosiphum (Hemiptera: Aphididae) using linear discriminant analysis to determine the validity of synonymized species, with some new synonymies and distribution data. *Biodiversity Data Journal* 8: e49102.
 
 `2020`
 Rolland, M., S. Tovanabutra, B. Dearlove, Y. Li, **C.L. Owen**, E. Sanders-Buell, M. Bose, A. O’Sullivan, G. Kijak, S. Miller, K. Poltavee, J. Lee, L. Bonar, E. Harbolick, B. Ahani, P. Pham, H. Kibuuka, L. Maganga, S. Nitayaphan, F.K. Sawe, L.A. Eller, R. Gramzinski, J.H. Kim, N.L. Michael, M.L. Robb, RV217 Study Team, 2020. Molecular dating and viral load growth rates suggested that the eclipse phase lasted about a week in HIV-1 infected adults in East Africa and Thailand. *PLoS pathogens* 16(2): e1008179.
@@ -127,7 +127,7 @@ Riddick, E.W., G.L. Miller, **C.L. Owen**, G. Bauchan, J.M. Schmidt, T. Gariepy,
 
 `2019`
 Ewers, C., **C.L. Owen**, M. Perez-Losada, J. Hoeg, H. Glenner, B.K.K. Chan, K.A. Crandall, 2019. Towards a barnacle tree of life: integrating diverse phylogenetic efforts into a comprehensive hypothesis of thecostracan evolution. *PeerJ*, 7: e7387.
-
+  - C. Ewers & C.L. Owen contributed equally to this work
 
 
 
