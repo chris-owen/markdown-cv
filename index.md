@@ -3,7 +3,7 @@ layout: cv
 title: Christopher L. Owen's CV
 ---
 # Christopher L. Owen  
-
+<br/>
 Entomologist<br/>
 Systematic Entomology Laboratory, USDA-ARS<br/>
 c/o National Museum of Natural History<br/>
@@ -26,9 +26,19 @@ Washington, DC 20560-0168, USA<br/>
 `2000`
 **B.S., Environmental Science**, *Muhlenberg College*, Allentown, PA, USA.
 
-## Currently
+## Appointments
 
-Standing on the shoulders of giants
+`2019-present`
+**Entomologist**, United States Department of Agriculture, Agriculture Research Service
+
+`2017-2019`
+**Postdoctoral Research Fellow**, United States Department of Energy/Department of Agriculture
+
+`2015-2017`
+**Postdoctoral Research Fellow**, Henry M. Jackson Foundation/U.S. Department of Defense
+
+`2013-2016`
+**Research Collaborator**, Department of Entomology, Smithsonian Institution National Museum of Natural History
 
 ### Specialized in
 
