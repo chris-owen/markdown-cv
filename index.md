@@ -41,10 +41,23 @@ Washington, DC 20560-0168, USA<br/>
 `2013-2016`
 **Research Collaborator**, Department of Entomology, Smithsonian Institution National Museum of Natural History
 
-### Specialized in
+`2013-2015`
+**Postdoctoral Research Fellow**, Computational Biology Institute, School of Public Health, George Washington University
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2007-2013`
+**Graduate Assistant**, Department of Ecology & Evolutionary Biology, University of Connecticut
 
+`2006-2007`
+**Molecular Laboratory Technician**, Department of Entomology, Pennsylvannia State University
+
+## Grants and Fellowships
+
+`2019`
+**USDA-ARS Innovation Grant**, Principle Investigator, $24,226
+
+`2017`
+**NSF DEB Systematics and Biodiversity Science Cluster, Senior Investigator<br/>
+  - Title: 'Exploring endosymbiont biodiversity and complexity in the Family Cicadidae'
 
 ### Research interests
 
