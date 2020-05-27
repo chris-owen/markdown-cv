@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Christopher L. Owen's CV
 ---
-# Isaac Newton
+# Christopher L. Owen
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
