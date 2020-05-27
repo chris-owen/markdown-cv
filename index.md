@@ -11,11 +11,12 @@ c/o National Museum of Natural History<br/>
 Washington, DC 20560-0168, USA<br/>
 <a href="christopher.owen@usda.gov">christopher.owen@usda.gov</a><br/>
 <div id="webaddress">
-  <a href="https://chris-owen.github.io"><i class="fas fa-home"></i> Website: chris-owen.github.io</a><br/> 
-  <a href="https://github.com/chris-owen"><i class="fab fa-github"></i> GitHub: chris-owen</a><br/>
-  <a href="https://bitbucket.org/clowen"><i class="ai ai-orcid"></i> Bitbucket: clowen</a><br/>
-  <a href="https://orcid.org/0000-0003-0293-8601"><i class="ai ai-orcid"></i> ORCID:0000-0003-0293-8601</a><br/>
+  <a href="https://chris-owen.github.io"><i class="fas fa-home"></i> chris-owen.github.io</a><br/> 
+  <a href="https://github.com/chris-owen"><i class="fab fa-github"></i> chris-owen</a><br/>
+  <a href="https://bitbucket.org/clowen"><i class="fab fa-bitbucket"></i> clowen</a><br/>
+  <a href="https://orcid.org/0000-0003-0293-8601"><i class="ai ai-orcid"></i> 0000-0003-0293-8601</a><br/>
 </div>  
+
 ## Education
 
 `2013`
@@ -175,7 +176,7 @@ Moulds, M.S. and **C.L. Owen**, 2011. Pauropsalta walkeri, a new species of cica
 **Owen, C.L.**, C.G. Messing, G.W. Rouse, M.S. Shivji, 2009. Using a combined approach to explain the morphological and ecological diversity in Phanogenia gracilis Hartlaub, 1893 (Echinodermata: Crinoidea) sensu lato: two species or intraspecific variation? *Marine Biology* 156: 1517-1529.
 
 
-### Non-Peer Reviewed Publications
+### Popular Publications
 
 `2016`
 Busby, B.,…**C.L. Owen** et al., 2016. Closing gaps between open software and public data in a hackathon setting: User-centered software prototyping. *F1000Research* 5:672.
@@ -186,6 +187,30 @@ Busby, B.,…**C.L. Owen** et al., 2016. Closing gaps between open software and 
 
 `2019`
 **Owen, C.L.**, 2019. Inferring the phylogenies of Cicadidae (Hemiptera: Auchenorrhyncha) and Aphidoidea (Hemiptera: Sternorrhyncha): progress and pitfalls. Invited oral presentation. Early Career Professionals Symposium, Entomological Society of America Eastern Branch Meeting, Virginia Tech University, Blacksburg, Virginia.
+
+`2018`
+**Owen, C.L.**, 2018. Inferring the phylogenies of Cicadidae (Hemiptera: Auchenorrhyncha) and Aphidoidea (Hemiptera: Sternorrhyncha): progress and pitfalls. Invited oral presentation. Entomological Society of Washington, National Museum of Natural History, Smithsonian Institution, Washington, D.C.
+
+`2016`
+**Owen, C.L.**, 2016. Phylogeny of Peracarida (Arthropoda: Crustacea) and its application to genome size evolution and conservation. Invited oral presentation. IX Brazilian Congress of Crustaceans, Crato, Ceará State, Brazil.**Declined**
+
+`2016`
+**Owen, C.L.**, 2016. The utility of insect collections for comparative genomics studies. Invited oral presentation. Entomological Collections Network Annual Meeting, Orlando, Florida. **Declined**
+
+`2015`
+**Owen, C.L.**, 2015. Exploring, improving, and evaluating anchored hybrid enrichment data support for relationships within the Family Cicadidae. Invited oral presentation. Hemipteroid Insect Phylogenetics Workshop, Champaign, Illinois.
+
+`2015`
+**Owen, C.L.**,  2015. Integrating taxonomy, sequence data, phylogeny, and genomes, across independent databases to generate a comprehensive view of Hemiptera phylogeny and systematics. Invited oral presentation. Hemipteroid Insect Phylogenetics Workshop, Champaign, Illinois.
+
+`2012`
+**Owen, C.L.**, 2012. Diversification and biogeography of the Australian cicada genus. Invited oral presentation. International Congress of Entomology 2012, Daegu, Korea. **Declined**
+
+`2012`
+**Owen, C.L.**, 2010. Diversification and evolution of the Australian cicada genus Pauropsalta. Invited oral presentation. Entomological Society of America Meeting 2010, Divergence Time Symposium, San Diego, California.
+
+`2012`
+**Owen, C.L.**, 2010. Dating two rapid cicada radiations: the tribe Cicadettini and the Australian cicada genus Pauropsalta. Invited oral presentation. Northeastern Symposium on Evolutionary Divergence Time, New Brunswick, New Jersey.
 
 
 ## Publications
