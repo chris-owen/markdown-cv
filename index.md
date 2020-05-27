@@ -56,7 +56,7 @@ Washington, DC 20560-0168, USA<br/>
 **USDA-ARS Innovation Grant**, Principle Investigator, $24,226
 
 `2017`
-**NSF DEB Systematics and Biodiversity Science Cluster, Senior Investigator<br/>
+**NSF DEB Systematics and Biodiversity Science Cluster**, Senior Investigator<br/>
   - Title: 'Exploring endosymbiont biodiversity and complexity in the Family Cicadidae'
 
 ### Research interests
