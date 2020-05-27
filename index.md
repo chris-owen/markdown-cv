@@ -2,7 +2,7 @@
 layout: cv
 title: Christopher L. Owen's CV
 ---
-# Christopher L. Owen
+# Christopher L. Owen  
 
 Entomologist<br/>
 Systematic Entomology Laboratory, USDA-ARS<br/>
@@ -14,8 +14,7 @@ Washington, DC 20560-0168, USA<br/>
   <a href="https://chris-owen.github.io"><i class="fas fa-home"></i> Website: chris-owen.github.io</a><br/> 
   <a href="https://github.com/chris-owen"><i class="fab fa-github"></i> GitHub: chris-owen</a><br/>
   <a href="https://orcid.org/0000-0003-0293-8601"><i class="ai ai-orcid"></i> ORCID:0000-0003-0293-8601</a><br/>
-</div>
-
+</div>  
 ## Education
 
 `2013`
