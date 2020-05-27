@@ -52,10 +52,10 @@ Washington, DC 20560-0168, USA<br/>
 
 ## Grants and Fellowships
 
-`2019`
-**USDA-ARS Innovation Grant**, Principle Investigator, $24,226
-
-`2017`
+`2019-2021`
+**USDA-ARS Innovation Grant**, Principle Investigator, $24,226<br/>
+  - Title: 'Systematics of Hemiptera and related groups: plant pests, predators, and disease vectors'
+`2017-2021`
 **NSF DEB Systematics and Biodiversity Science Cluster**, Senior Investigator<br/>
   - Title: 'Exploring endosymbiont biodiversity and complexity in the Family Cicadidae'
 
