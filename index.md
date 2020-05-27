@@ -216,7 +216,7 @@ Busby, B.,…**C.L. Owen** et al., 2016. Closing gaps between open software and 
 **Owen, C.L.**, 2010. Dating two rapid cicada radiations: the tribe Cicadettini and the Australian cicada genus Pauropsalta. Invited oral presentation. Northeastern Symposium on Evolutionary Divergence Time, New Brunswick, New Jersey.
 
 
-### Conference Presentations and Posters
+### Conference Presentations<br/>and Posters
 
 `2019`
 Riddick, E., G.L. Miller, **C.L. Owen**, G.R. Bauchan, J.M. Schmidt, T. Gariepy, R.L. Brown, M.J. Grodowitz, 2019. Interactions of Aphis ruborum and its natural enemies on strawberry in southeastern USA. Oral Presentation. International Symposium Ecology of Aphidophaga 14, Montreal, Canada.
