@@ -108,7 +108,7 @@ Washington, DC 20560-0168, USA<br/>
 Dearlove, B., S. Tovanabutra, **C.L. Owen**, E. Lewitus, E. Sanders-Buell, M. Bose, A. O’Sullivan, G. Kijak, 
 Y. Li, S. Miller, K. Poltavee, J. Lee, L. Bonar, E. Harbolick, B. Ahani, P. Pham, H. Kibuuka, L. Maganga, 
 S. Nitayaphan, F. Sawe, J. Kim, L.A. Eller, R. Gramzinski, S. Vasan, N. Michael, M. Robb, and M. Rolland. 
-Factors influencing estimates of HIV-1 acute infection timing using BEAST. PLOS Computational Biology, *submitted*.
+Factors influencing estimates of HIV-1 acute infection timing using BEAST. *PLOS Computational Biology, submitted*.
 
 `2020`
 **Owen, C.L.** and G.L. Miller. A geographic and host-association framework for Aphidomorpha (Hemiptera: Sternorrhyncha) biodiversity discovery and plant protection in North America. Ecology and Evolution, *submitted*.
@@ -116,44 +116,17 @@ Factors influencing estimates of HIV-1 acute infection timing using BEAST. PLOS 
 `2020`
 20.  Skvarla, M.J., M. Kramer, **C.L. Owen**, G.L. Miller, 2020. Reexamination of Rhopalosiphum (Hemiptera: Aphididae) using linear discriminant analysis to determine the validity of synonymized species, with some new synonymies and distribution data. *Biodiversity Data Journal* 8: e49102.
 
-19.  Rolland, M., S. Tovanabutra, B. Dearlove, Y. Li, C.L. Owen, E. Sanders-Buell, M. Bose, A. O’Sullivan, G. Kijak, S. Miller, K. Poltavee, J. Lee, L. Bonar, E. Harbolick, B. Ahani, P. Pham, H. Kibuuka, L. Maganga, S. Nitayaphan, F.K. Sawe, L.A. Eller, R. Gramzinski, J.H. Kim, N.L. Michael, M.L. Robb, RV217 Study Team, 2020. Molecular dating and viral load growth rates suggested that the eclipse phase lasted about a week in HIV-1 infected adults in East Africa and Thailand. PLoS pathogens 16(2): e1008179.
+`2020`
+Rolland, M., S. Tovanabutra, B. Dearlove, Y. Li, **C.L. Owen**, E. Sanders-Buell, M. Bose, A. O’Sullivan, G. Kijak, S. Miller, K. Poltavee, J. Lee, L. Bonar, E. Harbolick, B. Ahani, P. Pham, H. Kibuuka, L. Maganga, S. Nitayaphan, F.K. Sawe, L.A. Eller, R. Gramzinski, J.H. Kim, N.L. Michael, M.L. Robb, RV217 Study Team, 2020. Molecular dating and viral load growth rates suggested that the eclipse phase lasted about a week in HIV-1 infected adults in East Africa and Thailand. *PLoS pathogens* 16(2): e1008179.
 
-18.  Owen, C.L., D.B. Stern**, S. Hilton*, K.A. Crandall, 2020. Hemiptera phylogenomic resources: tree-based orthology prediction and conserved exon identification. Molecular Ecology Resources, accepted.
+`2020`
+**Owen, C.L.**, D.B. Stern, S. Hilton, K.A. Crandall, 2020. Hemiptera phylogenomic resources: tree-based orthology prediction and conserved exon identification. *Molecular Ecology Resources, accepted*.
 
-17.  Riddick, E.W., G.L. Miller, C.L. Owen, G. Bauchan, J.M. Schmidt, T. Gariepy, R.L. Brown, M. J. Grodowitz, 2019. Discovery of Aphis ruborum (Hemiptera: Aphididae) and Aphelinus varipes (Hymenoptera: Aphelinidae) on cultivated strawberry in Mississippi, USA. Journal of Insect Science, 19(3): 1-6.
+`2019`
+Riddick, E.W., G.L. Miller, **C.L. Owen**, G. Bauchan, J.M. Schmidt, T. Gariepy, R.L. Brown, M. J. Grodowitz, 2019. Discovery of Aphis ruborum (Hemiptera: Aphididae) and Aphelinus varipes (Hymenoptera: Aphelinidae) on cultivated strawberry in Mississippi, USA. *Journal of Insect Science* 19(3): 1-6.
 
-16.  Ewers, C.§, C.L. Owen§, M. Perez-Losada, J. Hoeg, H. Glenner, B.K.K. Chan, K.A. Crandall, 2019. Towards a barnacle tree of life: integrating diverse phylogenetic efforts into a comprehensive hypothesis of thecostracan evolution. PeerJ, 7: e7387.
-  § Authors contributed equally to this work
-
-15.  Krebs, S.J.,…C.L. Owen et al., 2019. Longitudinal analysis reveals early development of three MPER-directed neutralizing antibody lineages from an HIV-1 infected individual. Immunity 50(3): 667-691.
-
-14.  Marshall, D.C.**, M. Moulds, K.B.R. Hill, B.W. Price**, E.J. Wade, C.L. Owen, G. Goemans, K. Marathe, V. Sarkar, J.R. Cooley, A.F. Sanborn, K. Kunte, M.H. Villet, C. Simon, 2018. A molecular phylogeny of the cicadas (Hemiptera: Cicadidae) with a review of tribe and subfamily classification. Zootaxa 4424(1): 001-064.
-
-13.  Wentworth, S.A.*, K. Thede, V. Aravindabose, I. Monroe, A.W. Thompson, N. Molyneaux, C.L. Owen, J.R. Burns, A. Gonzalez-vicente, J.L. Garvin, R.K. Packer, 2018. Transcriptomic analysis of changes in gene expression of immune proteins of gill tissue in response to low environmental temperature in fathead minnows (Pimephales promelas). Comparative Biochemistry and Physiology Part D: Genomics and Proteomics 25: 109-117.
-
-12.  Stern, D.B.**, J. Breinholt, C. Pedraza, M. Lopez-Mejia, C.L. Owen, H. Bracken-Grissom, J.W. Fetzner, K.A. Crandall, 2017. Phylogenetic evidence from freshwater crayfishes that cave adaptation is not an evolutionary dead-end. Evolution 71(10): 2522-2532.
- 
-11.  Owen, C.L., D.C. Marshall**, K.B.R. Hill, C. Simon, 2017. How the aridification of Australia structured the biogeography and influenced the diversification of a large lineage of Australian cicadas. Systematic Biology 66(4): 569-589.
-
-10.  Owen, C.L. and M.S. Moulds, 2016. Systematics and phylogeny of the Australian cicada genus Pauropsalta Goding and Froggatt and allied genera (Hemiptera: Cicadidae: Cicadettini). Records of the Australian Museum 68(4): 117-200.
-
-9.  Hinchliff, C.,…C.L. Owen et al., 2015. Synthesis of phylogeny and taxonomy for a comprehensive tree of life. Proceedings of the National Academy of Sciences 112(41): 12764-12769.
-
-8.  Ellis, E.*, D.C. Marshall, K.B.R. Hill, C.L. Owen, P. Kamp, C. Simon, 2015. Phylogeography of six North Island, New Zealand cicadas and their relationships to multiple biogeographic boundaries suggests a re-evaluation of the Taupo Line. Journal of Biogeography 42: 1761-1775.
-
-7.  Ruiz-Arce, R., C.L. Owen, D.B. Thomas, N.B. Barr, B.A. McPheron, 2015. Phylogeographic structure in Anastrepha ludens populations inferred with mtDNA sequencing. Journal of Economic Entomology 108(3): 1324-1336.
-
-6.  Owen, C.L., D.C. Marshall**, K.B.R. Hill, C. Simon, 2015. The phylogenetic utility of acetyltransferase (ARD1) and glutaminyl tRNA synthetase (QtRNA) for reconstructing Cenozoic relationships as exemplified by the large Australian cicada Pauropsalta generic complex. Molecular Phylogenetics and Evolution 83: 258-277.
-
-5.  Owen, C.L., H. Bracken-Grissom, D. Stern**, and K.A. Crandall, 2015. The synthetic phylogeny of freshwater crayfish: Insights for conservation. Philosophical Transactions of the Royal Society of London B: Biological Sciences 370(1662), 20140009.
-
-4.  Sustaita, D.**, C.L. Owen, J.C. Villarreal, M.A. Rubega, 2014. Morphometric and DNA tools for sexing California populations of loggerhead shrikes. The Southwestern Naturalist 59(4): 562-569.
-
-3.  Ruiz-Arce, R., N.B. Barr, C.L. Owen, D.B. Thomas, B.A. McPheron, 2012. Phylogeography of West Indian fruit fly, Anastrepha obliqua, inferred with mtDNA sequencing. Journal of Economic Entomology 105: 2147-2160.
-
-2.  Moulds, M.S. and C.L. Owen, 2011. Pauropsalta walkeri, a new species of cicada (Homoptera: Cicadidae: Cicadinae) from northern Australia. Australian Entomologist 38: 145-154.
-
-1.  Owen, C.L., C.G. Messing, G.W. Rouse, M.S. Shivji, 2009. Using a combined approach to explain the morphological and ecological diversity in Phanogenia gracilis Hartlaub, 1893 (Echinodermata: Crinoidea) sensu lato: two species or intraspecific variation? Marine Biology 156: 1517-1529.
+`2019`
+Ewers, C., **C.L. Owen**, M. Perez-Losada, J. Hoeg, H. Glenner, B.K.K. Chan, K.A. Crandall, 2019. Towards a barnacle tree of life: integrating diverse phylogenetic efforts into a comprehensive hypothesis of thecostracan evolution. *PeerJ*, 7: e7387.
 
 
 
