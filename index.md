@@ -52,6 +52,10 @@ Washington, DC 20560-0168, USA<br/>
 
 ## Grants and Fellowships
 
+`2020`
+**USDA-ARS Innovation Grant**, Principle Investigator, *submitted*, $100,000<br/>
+  - Title: 'Using image recognition to prevent invasive agricultural pests'
+
 `2019-2021`
 **USDA-ARS Innovation Grant**, Principle Investigator, $24,226<br/>
   - Title: 'Systematics of Hemiptera and related groups: plant pests, predators, and disease vectors'
