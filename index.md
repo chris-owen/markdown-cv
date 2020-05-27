@@ -100,9 +100,9 @@ Washington, DC 20560-0168, USA<br/>
 `2009`
 **Lawrence R. Penner Endowment Fund**, Connecticut Museum of Nat. History, $100
 
+## Publications
 
-
-## Peer-Reviewed Publications
+### Peer-Reviewed Publications
 
 `2020`
 Dearlove, B., S. Tovanabutra, **C.L. Owen**, E. Lewitus, E. Sanders-Buell, M. Bose, A. O’Sullivan, G. Kijak, 
@@ -114,7 +114,7 @@ Factors influencing estimates of HIV-1 acute infection timing using BEAST. *PLOS
 **Owen, C.L.** and G.L. Miller. A geographic and host-association framework for Aphidomorpha (Hemiptera: Sternorrhyncha) biodiversity discovery and plant protection in North America. Ecology and Evolution, *submitted*.
 
 `2020`
-**Owen, C.L.**, D.B. Stern, S. Hilton, K.A. Crandall, 2020. Hemiptera phylogenomic resources: tree-based orthology prediction and$
+**Owen, C.L.**, D.B. Stern, S. Hilton, K.A. Crandall, 2020. Hemiptera phylogenomic resources: tree-based orthology prediction and conserved exon identification. *Molecular Ecology Resources, accepted*
 
 `2020`
 Skvarla, M.J., M. Kramer, **C.L. Owen**, G.L. Miller, 2020. Reexamination of Rhopalosiphum (Hemiptera: Aphididae) using linear discriminant analysis to determine the validity of synonymized species, with some new synonymies and distribution data. *Biodiversity Data Journal* 8: e49102.
@@ -151,7 +151,7 @@ Stern, D.B., J. Breinholt, C. Pedraza, M. Lopez-Mejia, **C.L. Owen**, H. Bracken
 Hinchliff, C.,…**C.L. Owen** et al., 2015. Synthesis of phylogeny and taxonomy for a comprehensive tree of life. *Proceedings of the National Academy of Sciences* 112(41): 12764-12769.
 
 `2015`
-Ellis, E., D.C. Marshall, K.B.R. Hill, **C.L. Owen, P. Kamp, C. Simon, 2015. Phylogeography of six North Island, New Zealand cicadas and their relationships to multiple biogeographic boundaries suggests a re-evaluation of the Taupo Line. *Journal of Biogeography* 42: 1761-1775.
+Ellis, E., D.C. Marshall, K.B.R. Hill, **C.L. Owen**, P. Kamp, C. Simon, 2015. Phylogeography of six North Island, New Zealand cicadas and their relationships to multiple biogeographic boundaries suggests a re-evaluation of the Taupo Line. *Journal of Biogeography* 42: 1761-1775.
 
 `2015`
 Ruiz-Arce, R., **C.L. Owen**, D.B. Thomas, N.B. Barr, B.A. McPheron, 2015. Phylogeographic structure in Anastrepha ludens populations inferred with mtDNA sequencing. *Journal of Economic Entomology* 108(3): 1324-1336.
@@ -175,30 +175,17 @@ Moulds, M.S. and **C.L. Owen**, 2011. Pauropsalta walkeri, a new species of cica
 **Owen, C.L.**, C.G. Messing, G.W. Rouse, M.S. Shivji, 2009. Using a combined approach to explain the morphological and ecological diversity in Phanogenia gracilis Hartlaub, 1893 (Echinodermata: Crinoidea) sensu lato: two species or intraspecific variation? *Marine Biology* 156: 1517-1529.
 
 
-## Education
+### Non-Peer Reviewed Publications
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016`
+Busby, B.,…**C.L. Owen** et al., 2016. Closing gaps between open software and public data in a hackathon setting: User-centered software prototyping. *F1000Research* 5:672.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Presentations
 
-- Sizar
+### Invited Presentations
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`2019`
+**Owen, C.L.**, 2019. Inferring the phylogenies of Cicadidae (Hemiptera: Auchenorrhyncha) and Aphidoidea (Hemiptera: Sternorrhyncha): progress and pitfalls. Invited oral presentation. Early Career Professionals Symposium, Entomological Society of America Eastern Branch Meeting, Virginia Tech University, Blacksburg, Virginia.
 
 
 ## Publications
