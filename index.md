@@ -57,35 +57,35 @@ Washington, DC 20560-0168, USA<br/>
   - Title: 'Systematics of Hemiptera and related groups: plant pests, predators, and disease vectors'
 
 `2017-2021`
-**NSF DEB Systematics and Biodiversity Science Cluster**, Senior Investigator<br/>
+**NSF DEB Systematics and Biodiversity Science Cluster**, Senior Investigator, $890,975<br/>
   - Title: 'Exploring endosymbiont biodiversity and complexity in the Family Cicadidae'
 
 `2016`
 **Entomological Society of America Early Professional Award**, $1,000
 
 `2014`
-**Lerner-Gray Marine Research Grant**, $2,000
+**Lerner-Gray Marine Research Grant**, American Museum of Natural History, $2,000
 
 `2013`
 **Symposium and Workshop on New Methods for Phylogenomics and Metagenomics Travel Grant**, $750
 
 `2011`
-**UConn Graduate Student Research Award**, $5,640
+**Graduate Student Research Award**, University of Connecticut, $5,640
 
 `2011`
-**UConn Graduate School Dissertation Fellowship**, $2,000
+**Graduate School Dissertation Fellowship**, University of Connecticut, $2,000
 
 `2011`
-**UConn Ecology and Evolutionary Biology Summer Fellowship Award**, $2,500
+**Ecology and Evolutionary Biology Summer Fellowship Award**, University of Connecticut, $2,500
 
 `2010`
-**NSF Doctoral Dissertation Improvement Grant**, $14,769
+**Doctoral Dissertation Improvement Grant**, National Science Foundation, $14,769
  
 `2010`
-**Systematic Research Fund, The Systematics Association of London**, $2,171
+**Systematic Research Fund**, The Systematics Association of London, $2,171
 
 `2010`
-**UConn Doctoral Dissertation Extraordinary Expense Award**, $500
+**Doctoral Dissertation Extraordinary Expense Award**, University of Connecticut, $500
 
 `2010`
 **Sigma Xi Grant-in-Aid of Research**, $400
@@ -94,7 +94,7 @@ Washington, DC 20560-0168, USA<br/>
 **Society of Systematic Biologists Graduate Student Research Award**, $1,000
  
 `2009`
-**Lawrence R. Penner Endowment Fund, Connecticut Museum of Natural History**, $100
+**Lawrence R. Penner Endowment Fund**, Connecticut Museum of Nat. History, $100
 
 
 
