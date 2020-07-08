@@ -153,7 +153,7 @@ Stern, D.B., J. Breinholt, C. Pedraza, M. Lopez-Mejia, **C.L. Owen**, H. Bracken
 **Owen, C.L.** and M.S. Moulds, 2016. Systematics and phylogeny of the Australian cicada genus Pauropsalta Goding and Froggatt and allied genera (Hemiptera: Cicadidae: Cicadettini). *Records of the Australian Museum* 68(4): 117-200.
 
 `2015`
-Hinchliff, C.,…**C.L. Owen** et al., 2015. Synthesis of phylogeny and taxonomy for a comprehensive tree of life. *Proceedings of the National Academy of Sciences* 112(41): 12764-12769.
+Hinchliff, C.E., S.A. Smith, J.F. Allman, J.G. Burleigh, R. Chaudhary, L.M. Coghill, K.A. Crandall, J. Deng, B.T. Drew, R. Gazis, K. Gude, D.S. Hibbett, L.A. Katz, H.D. Laughinghouse, E.J. McTavish, P.E. Midford, **C.L. Owen**, R.H. Ree, J.A. Rees, D.E. Soltis, T. Williams, K.A. Cranston, 2015. Synthesis of phylogeny and taxonomy for a comprehensive tree of life. *Proceedings of the National Academy of Sciences* 112(41): 12764-12769.
 
 `2015`
 Ellis, E., D.C. Marshall, K.B.R. Hill, **C.L. Owen**, P. Kamp, C. Simon, 2015. Phylogeography of six North Island, New Zealand cicadas and their relationships to multiple biogeographic boundaries suggests a re-evaluation of the Taupo Line. *Journal of Biogeography* 42: 1761-1775.
