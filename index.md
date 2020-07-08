@@ -135,7 +135,7 @@ Ewers, C., **C.L. Owen**, M. Perez-Losada, J. Hoeg, H. Glenner, B.K.K. Chan, K.A
   - *C. Ewers & C.L. Owen contributed equally to this work*
 
 `2019`
-Krebs, S.J.,…**C.L. Owen** et al., 2019. Longitudinal analysis reveals early development of three MPER-directed neutralizing antibody lineages from an HIV-1 infected individual. *Immunity* 50(3): 667-691.
+Krebs, S.J., Y.D. Kwon, C.A. Schramm, W.H. Law, G. Donofrio, K.H. Zhou, S. Gift, V. Dussupt, I.S. Georgiev, S. Schatzle, J.R. McDaniel, Y. Lai, M. Sastry, B. Zhang, M.C. Jarosinski, A. Ransier, A.L. Chenine, M. Asokan, R.T. Bailer, M. Bose, A. Cagigi, J. Gorman, F. Laboune, M.K. Louder, K. McKee, L. Mendez, M.A. Moody, A.M. O'Sullivan, **C.L. Owen**, D. Peng, R. Rawi, E. Sanders-Buell, C. Shen, A.R. Shiakolas, T. Stephens, Y. Tsybovsky, C. Tucker, R. Verardi, K. Wang, J. Zhou, T. Zhou, G. Georgiou, S.M. Alam, B.F. Haynes, M. Rolland, G.R. Matyas, V.R Polonis, A.B. McDermott, D.C. Douek, L. Shapiro, S. Tovanabutra, N.L. Michael, J.R. Mascola, M.L. Robb, P.D. Kwong, N.A. Doria-Rose, 2019. Longitudinal analysis reveals early development of three MPER-directed neutralizing antibody lineages from an HIV-1 infected individual. *Immunity* 50(3): 667-691.
 
 `2018`
 Marshall, D.C., M. Moulds, K.B.R. Hill, B.W. Price, E.J. Wade, **C.L. Owen**, G. Goemans, K. Marathe, V. Sarkar, J.R. Cooley, A.F. Sanborn, K. Kunte, M.H. Villet, C. Simon, 2018. A molecular phylogeny of the cicadas (Hemiptera: Cicadidae) with a review of tribe and subfamily classification. *Zootaxa* 4424(1): 001-064.
