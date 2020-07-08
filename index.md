@@ -116,7 +116,7 @@ S. Nitayaphan, F. Sawe, J. Kim, L.A. Eller, R. Gramzinski, S. Vasan, N. Michael,
 Factors influencing estimates of HIV-1 acute infection timing using BEAST. *PLOS Computational Biology, submitted*.
 
 `2020`
-**Owen, C.L.** and G.L. Miller. A geographic and host-association framework for Aphidomorpha (Hemiptera: Sternorrhyncha) biodiversity discovery and plant protection in North America. Ecology and Evolution, *submitted*.
+**Owen, C.L.** and G.L. Miller. A geographic and host-association framework for Aphidomorpha (Hemiptera: Sternorrhyncha) biodiversity discovery and plant protection in North America. *Ecology and Evolution, submitted*.
 
 `2020`
 **Owen, C.L.**, D.B. Stern, S. Hilton, K.A. Crandall, 2020. Hemiptera phylogenomic resources: tree-based orthology prediction and conserved exon identification. *Molecular Ecology Resources, accepted*
@@ -128,7 +128,7 @@ Skvarla, M.J., M. Kramer, **C.L. Owen**, G.L. Miller, 2020. Reexamination of Rho
 Rolland, M., S. Tovanabutra, B. Dearlove, Y. Li, **C.L. Owen**, E. Sanders-Buell, M. Bose, A. O’Sullivan, G. Kijak, S. Miller, K. Poltavee, J. Lee, L. Bonar, E. Harbolick, B. Ahani, P. Pham, H. Kibuuka, L. Maganga, S. Nitayaphan, F.K. Sawe, L.A. Eller, R. Gramzinski, J.H. Kim, N.L. Michael, M.L. Robb, RV217 Study Team, 2020. Molecular dating and viral load growth rates suggested that the eclipse phase lasted about a week in HIV-1 infected adults in East Africa and Thailand. *PLoS pathogens* 16(2): e1008179.
 
 `2019`
-Riddick, E.W., G.L. Miller, **C.L. Owen**, G. Bauchan, J.M. Schmidt, T. Gariepy, R.L. Brown, M. J. Grodowitz, 2019. Discovery of Aphis ruborum (Hemiptera: Aphididae) and Aphelinus varipes (Hymenoptera: Aphelinidae) on cultivated strawberry in Mississippi, USA. *Journal of Insect Science* 19(3): 1-6.
+Riddick, E.W., G.L. Miller, **C.L. Owen**, G. Bauchan, J.M. Schmidt, T. Gariepy, R.L. Brown, M. J. Grodowitz, 2019. Discovery of *Aphis ruborum* (Hemiptera: Aphididae) and *Aphelinus varipes* (Hymenoptera: Aphelinidae) on cultivated strawberry in Mississippi, USA. *Journal of Insect Science* 19(3): 1-6.
 
 `2019`
 Ewers, C., **C.L. Owen**, M. Perez-Losada, J. Hoeg, H. Glenner, B.K.K. Chan, K.A. Crandall, 2019. Towards a barnacle tree of life: integrating diverse phylogenetic efforts into a comprehensive hypothesis of thecostracan evolution. *PeerJ*, 7: e7387.
