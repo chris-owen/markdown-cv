@@ -144,7 +144,7 @@ Marshall, D.C., M. Moulds, K.B.R. Hill, B.W. Price, E.J. Wade, **C.L. Owen**, G.
 Wentworth, S.A., K. Thede, V. Aravindabose, I. Monroe, A.W. Thompson, N. Molyneaux, **C.L. Owen**, J.R. Burns, A. Gonzalez-vicente, J.L. Garvin, R.K. Packer, 2018. Transcriptomic analysis of changes in gene expression of immune proteins of gill tissue in response to low environmental temperature in fathead minnows (*Pimephales promelas*). *Comparative Biochemistry and Physiology Part D: Genomics and Proteomics* 25: 109-117.
 
 `2018`
-Rolland, M., B. Dearlove, Y. Li, S. Tovanabutra, **C.L. Owen**, E. Sanders-Buell, M. Bose, A.M. O'Sullivan, H. Kibuuka, L. Maganga, S. Nitayaphan, L.A. Eller, N. Michael, M. Robb, 2018. The Eclipse Phase Lasted a Week in HIV-1-infected Adults in East Africa and Thailand. The Eclipse Phase Lasted a Week in HIV-1-infected Adults in East Africa and Thailand. *AIDS RESEARCH AND HUMAN RETROVIRUSES* 34: 62-62.
+Rolland, M., B. Dearlove, Y. Li, S. Tovanabutra, **C.L. Owen**, E. Sanders-Buell, M. Bose, A.M. O'Sullivan, H. Kibuuka, L. Maganga, S. Nitayaphan, L.A. Eller, N. Michael, M. Robb, 2018. The Eclipse Phase Lasted a Week in HIV-1-infected Adults in East Africa and Thailand. *AIDS RESEARCH AND HUMAN RETROVIRUSES* 34: 62-62.
 
 `2017`
 Stern, D.B., J. Breinholt, C. Pedraza, M. Lopez-Mejia, **C.L. Owen**, H. Bracken-Grissom, J.W. Fetzner, K.A. Crandall, 2017. Phylogenetic evidence from freshwater crayfishes that cave adaptation is not an evolutionary dead-end. *Evolution* 71(10): 2522-2532.
