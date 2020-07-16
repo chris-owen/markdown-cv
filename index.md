@@ -61,6 +61,10 @@ Washington, DC 20560-0168, USA<br/>
 **USDA-ARS Innovation Grant**, Principle Investigator, *submitted*, $100,000<br/>
   - Title: 'Using image recognition to prevent invasive agricultural pests'
 
+`2020`
+**USDA-ARS High Priority Research Items**, Principle Investigator, $198,000<br/>
+  - Title: 'BioMek i7 (span-8) Liquid handler to increase genomic and phylogenomic capacity'
+
 `2019-2021`
 **USDA-ARS Innovation Grant**, Principle Investigator, $24,226<br/>
   - Title: 'Systematics of Hemiptera and related groups: plant pests, predators, and disease vectors'
