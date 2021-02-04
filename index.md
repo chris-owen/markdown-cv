@@ -53,12 +53,8 @@ Washington, DC 20560-0168, USA<br/>
 
 ## Grants and Fellowships
 
-`2020`
-**USDA-ARS Research Associate Proposal**, Principle Investigator, *submitted*, $140,000<br/>
-  - Title: 'A novel genome-based diagnostic tool to protect U.S. agricultural resources from non-native aphids'
-
-`2020`
-**USDA-ARS Innovation Grant**, Principle Investigator, *submitted*, $100,000<br/>
+`2021`
+**USDA-ARS Innovation Grant**, Principle Investigator, *submitted*, $25,000<br/>
   - Title: 'Using image recognition to prevent invasive agricultural pests'
 
 `2020`
@@ -113,17 +109,14 @@ Washington, DC 20560-0168, USA<br/>
 
 ### Peer-Reviewed Publications
 
-`2020`
+`2021`
 Dearlove, B., S. Tovanabutra, **C.L. Owen**, E. Lewitus, E. Sanders-Buell, M. Bose, A. O’Sullivan, G. Kijak, 
 Y. Li, S. Miller, K. Poltavee, J. Lee, L. Bonar, E. Harbolick, B. Ahani, P. Pham, H. Kibuuka, L. Maganga, 
 S. Nitayaphan, F. Sawe, J. Kim, L.A. Eller, R. Gramzinski, S. Vasan, N. Michael, M. Robb, and M. Rolland. 
-Factors influencing estimates of HIV-1 acute infection timing using BEAST. *PLOS Computational Biology, submitted*.
+Factors influencing estimates of HIV-1 acute infection timing using BEAST. *PLOS Computational Biology* 17(2): e1008537.
 
 `2020`
-**Owen, C.L.** and G.L. Miller. A geographic and host-association framework for Aphidomorpha (Hemiptera: Sternorrhyncha) biodiversity discovery and plant protection in North America. *Ecology and Evolution, submitted*.
-
-`2020`
-**Owen, C.L.**, D.B. Stern, S. Hilton, K.A. Crandall, 2020. Hemiptera phylogenomic resources: tree-based orthology prediction and conserved exon identification. *Molecular Ecology Resources, accepted*
+**Owen, C.L.**, D.B. Stern, S. Hilton, K.A. Crandall, 2020. Hemiptera phylogenomic resources: tree-based orthology prediction and conserved exon identification. *Molecular Ecology Resources* 20(5): 1346-1360.
 
 `2020`
 Skvarla, M.J., M. Kramer, **C.L. Owen**, G.L. Miller, 2020. Reexamination of *Rhopalosiphum* (Hemiptera: Aphididae) using linear discriminant analysis to determine the validity of synonymized species, with some new synonymies and distribution data. *Biodiversity Data Journal* 8: e49102.
