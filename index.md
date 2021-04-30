@@ -57,6 +57,11 @@ Washington, DC 20560-0168, USA<br/>
 **USDA-ARS Innovation Grant**, Principle Investigator, *submitted*, $25,000<br/>
   - Title: 'Using image recognition to prevent invasive agricultural pests'
 
+`2021`
+**USDA-ARS/U.S. Potato Industry Grant**, Principle Investigator, $55,349<br/>
+  - Title: 'Development of genomic and population toolkits for potato aphid:
+  helping the potato industry prepare for post-neonicotinoid resurgence of Potato leafroll virus'
+
 `2020`
 **USDA-ARS High Priority Research Items**, Principle Investigator, $198,000<br/>
   - Title: 'BioMek i7 (span-8) Liquid handler to increase genomic and phylogenomic capacity'
